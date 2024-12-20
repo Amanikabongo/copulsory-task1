@@ -1,0 +1,4 @@
+Country,Code,Product,Cost,Quantity
+GHANA,gh1234,adepa,200.0,10
+CONGO,cgg12345,malewa,100.0,8
+Canada,can12345,nike 1,100.0,20
